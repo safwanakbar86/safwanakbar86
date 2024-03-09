@@ -6,6 +6,8 @@ You will find projects, univerisity work, and LeetCode solutions here
 
 Feel free to go through them!
 
+(Projects are in progress and will be posted after completion)
+
 (Invitation to all the contributors out there to go through issues and pull requests)
 
 ### Tools and Languages
