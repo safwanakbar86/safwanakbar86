@@ -1,16 +1,37 @@
-### Hi there 👋
+## This is my GitHub profile
 
-<!--
-**safwanakbar86/safwanakbar86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Good day! Safwan Akbar here - an aspiring Data Scientist and ML/Ai Engineer
 
-Here are some ideas to get you started:
+You will find projects, univerisity work, and LeetCode solutions here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to go through them!
+
+(Invitation to all the contributors out there to go through issues and pull requests)
+
+### Tools and Languages
+
+ - Python3
+ - NumPy
+ - Seaborn
+ - Matplotlib
+
+### Areas of Interest
+
+ - Data Science
+ - Machine Learning
+ - Artificial Intelligence
+
+### Projects
+
+ - Computer Science in Python
+    - Python Terminal Game
+    - Recommendation Software
+    - Database
+    - CPU Simulator
+ - Data Science
+    - U.S. Medical Insurance Costs
+    - Cricket World Cup 2023
+ - Machine Learning
+    - TBA
+ - Aritificial Intelligence
+    - TBA
