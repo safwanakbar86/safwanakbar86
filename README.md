@@ -12,11 +12,8 @@ Feel free to go through them!
 
 ### Tools and Languages
 
-![alt-text][python]
-![alt-text][numpy]
-![alt-text][pandas]
-![alt-text][matplot]
-![alt-text][seaborn]
+| ![alt-text][python] | ![alt-text][numpy] | ![alt-text][pandas] | ![alt-text][matplot] | ![alt-text][seaborn] |
+| ------------------- | ------------------ | ------------------- | -------------------- | -------------------- |
 
 [python]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/python48.png "Python"
 [numpy]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/numpy48.png "NumPy"
