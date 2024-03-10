@@ -12,18 +12,17 @@ Feel free to go through them!
 
 ### Tools and Languages
 
-![alt-text][python] ![alt-text][numpy] ![alt-text][pandas] ![alt-text][matplot] ![alt-text][seaborn]
+![alt-text][python]
+![alt-text][numpy]
+![alt-text][pandas]
+![alt-text][matplot]
+![alt-text][seaborn]
 
-[python]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons/python48.png "Python"
-[numpy]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons/numpy48.png "NumPy"
-[pandas]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons/pandas48.png "Pandas"
-[matplot]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons/matplotlib48.png "Matplotlib"
-[seaborn]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons/seaborn48.png "Seaborn"
-
- - Python3
- - NumPy
- - Seaborn
- - Matplotlib
+[python]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/python48.png "Python"
+[numpy]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/numpy48.png "NumPy"
+[pandas]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/pandas48.png "Pandas"
+[matplot]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/matplotlib48.png "Matplotlib"
+[seaborn]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/seaborn48.png "Seaborn"
 
 ### Areas of Interest
 
