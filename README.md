@@ -1,5 +1,4 @@
-# Safwan Akbar's ![alt-text][github]
-[github]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png "GitHub"
+<h1 align="center"> SAFWAN <img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png" alt-text="GitHub"> AKBAR </h1>
 
 ### Welcome to my GitHub!
 
