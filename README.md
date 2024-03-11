@@ -1,7 +1,7 @@
-# THIS IS MY ![alt-text][github]
-[github]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons60/github60.png "GitHub"
+# Safwan Akbar's ![alt-text][github]
+[github]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png "GitHub"
 
-Good day! Safwan Akbar here
+### Welcome to my GitHub!
 
 (Projects are in progress and will be posted after completion)
 
