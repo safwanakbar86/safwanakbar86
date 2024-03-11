@@ -1,10 +1,7 @@
-## This is my GitHub profile
+# THIS IS MY ![alt-text][github]
+[github]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons60/github60.png "GitHub"
 
-Good day! Safwan Akbar here - an aspiring Data Scientist and ML/Ai Engineer
-
-You will find projects, univerisity work, and LeetCode solutions here
-
-Feel free to go through them!
+Good day! Safwan Akbar here
 
 (Projects are in progress and will be posted after completion)
 
