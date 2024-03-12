@@ -1,8 +1,6 @@
-<h1 align="center"> SAFWAN <img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png" alt-text="GitHub"> AKBAR </h1>
+<h1 align="center"> <img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png" alt-text="GitHub"> Good day, Safwan Akbar here! <img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png" alt-text="GitHub"> </h1>
 
 ### Welcome to my GitHub!
-
-(Projects are in progress and will be posted after completion)
 
 (Invitation to all the contributors out there to go through issues and pull requests)
 
@@ -17,23 +15,16 @@
 [matplot]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/matplotlib48.png "Matplotlib"
 [seaborn]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/seaborn48.png "Seaborn"
 
+### Connect with me
+
+| ![alt-text][linkedin] | ![alt-text][gmail] |
+| ------------------- | ------------------ |
+
+[linkedin]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/linkedin48.png "LinkedIn"
+[gmail]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/gmail48.png "Gmail"
+
 ### Areas of Interest
 
  - Data Science
  - Machine Learning
  - Artificial Intelligence
-
-### Projects
-
- - Computer Science in Python
-    - Python Terminal Game
-    - Recommendation Software
-    - Database
-    - CPU Simulator
- - Data Science
-    - U.S. Medical Insurance Costs
-    - Cricket World Cup 2023
- - Machine Learning
-    - TBA
- - Aritificial Intelligence
-    - TBA
