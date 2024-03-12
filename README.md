@@ -21,13 +21,8 @@
 | - | - |
 | [LinkedIn](https://www.linkedin.com/in/safwan-akbar-3015aa244/) | [Email](mailto:safwanakbar0205@gmail.com) |
 
- - ![alt-text][linkedin] [Safwan Akbar](https://www.linkedin.com/in/safwan-akbar-3015aa244/)
- - ![alt-text][gmail] [Safwan Akbar](mailto:safwanakbar0205@gmail.com)
-
 [linkedin]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/linkedin48.png "LinkedIn"
 [gmail]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/gmail48.png "Gmail"
-[^1]: https://www.linkedin.com/in/safwan-akbar-3015aa244/
-[^2]: mailto:safwanakbar0205@gmail.com
 
 ### Areas of Interest
 
