@@ -18,7 +18,7 @@
 ### Connect with me
 
 | ![alt-text][] | ![alt-text][] |
-| ------------------- | ------------------ |
+| - | - |
 
  - ![alt-text][linkedin] [Safwan Akbar](https://www.linkedin.com/in/safwan-akbar-3015aa244/)
  - ![alt-text][gmail] [Safwan Akbar](mailto:safwanakbar0205@gmail.com)
