@@ -7,7 +7,7 @@
 ### Tools and Languages
 
 | ![alt-text][python] | ![alt-text][numpy] | ![alt-text][pandas] | ![alt-text][matplot] | ![alt-text][seaborn] |
-| ------------------- | ------------------ | ------------------- | -------------------- | -------------------- |
+| - | - | - | - | - |
 
 [python]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/python48.png "Python"
 [numpy]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/numpy48.png "NumPy"
@@ -16,6 +16,9 @@
 [seaborn]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/seaborn48.png "Seaborn"
 
 ### Connect with me
+
+| ![alt-text][] | ![alt-text][] |
+| ------------------- | ------------------ |
 
  - ![alt-text][linkedin] [Safwan Akbar](https://www.linkedin.com/in/safwan-akbar-3015aa244/)
  - ![alt-text][gmail] [Safwan Akbar](mailto:safwanakbar0205@gmail.com)
