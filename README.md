@@ -17,12 +17,8 @@
 
 ### Connect with me
 
-| ![alt-text][linkedin] | ![alt-text][gmail] |
+| <a href="https://www.linkedin.com/in/safwan-akbar-3015aa244/"><img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/linkedin48.png" alt-text="LinkedIn"></a> | <a href="mailto:safwanakbar0205@gmail.com"><img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/gmail48.png" alt-text="Email"></a> |
 | - | - |
-| [LinkedIn](https://www.linkedin.com/in/safwan-akbar-3015aa244/) | [Email](mailto:safwanakbar0205@gmail.com) |
-
-[linkedin]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/linkedin48.png "LinkedIn"
-[gmail]: https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/gmail48.png "Gmail"
 
 ### Areas of Interest
 
