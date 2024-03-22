@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png" alt-text="GitHub"> Good day, Safwan Akbar here! <img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/github48.png" alt-text="GitHub"> </h1>
+<h1 align="center"> Good day, Safwan Akbar here! </h1>
 
 ### Welcome to my GitHub!
 
