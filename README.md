@@ -1,8 +1,12 @@
-<h1 align="center"> Good day, Safwan Akbar here! </h1>
+<h1 align="center"> Safwan Akbar </h1>
 
-### Welcome to my GitHub!
+Good day, Safwan Akbar here. Welcome to my GitHub!
 
-(Invitation to all the contributors out there to go through issues and pull requests)
+## Areas of Interest
+
+ - Data Science
+ - Machine Learning
+ - Artificial Intelligence
 
 ## Tools and Languages
 
@@ -20,8 +24,3 @@
 | <a href="https://www.linkedin.com/in/safwan-akbar-3015aa244/"><img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/linkedin48.png" alt-text="LinkedIn"></a> | <a href="mailto:safwanakbar0205@gmail.com"><img src="https://github.com/safwanakbar86/safwanakbar86/blob/main/icons48/gmail48.png" alt-text="Email"></a> |
 | - | - |
 
-## Areas of Interest
-
- - Data Science
- - Machine Learning
- - Artificial Intelligence
