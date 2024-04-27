@@ -1,6 +1,6 @@
-<h1 align="center"> Safwan Akbar </h1>
+<h1 align="center"> Welcome to my GitHub! </h1>
 
-Good day, Safwan Akbar here. Welcome to my GitHub!
+Good day, Safwan Akbar here.
 
 ## Areas of Interest
 
